@@ -48,13 +48,13 @@ It's not obvious what a good design for this problem would be.
 
 The design in C++ of class 'friendship' is not a good one to copy, at least in part because it requires coupling the 'private' class to any other class that might need it.
 
-For PHP it might make more sense to have the declarations done at a namespace level, so something like "the classes and methods in this namespace are only callable from these namespaces". 
+For PHP, it might make more sense to have the declarations done at a namespace level, so something like "the classes and methods in this namespace are only callable from these namespaces". 
 
 ## Forecast
 
 Might happen, if someone finds enough energy to really push for it.
 
-I suspect it just is never going to be high up enough on anyone's list of things that ought to be done, though, as there are many other better ways of spending energy.
+I suspect it's never going to be a high enough priority on anyone's list of things that ought to be done, though, as there are many other better ways of spending energy.
 
 ## Notes
 
